@@ -1,0 +1,2 @@
+total_params,trainable_params,batch_time_ms,molecule_time_ms,peak_memory_mb,batch_size
+1360321,1360321,7.944483757019043,0.4965302348136902,0.0,16
